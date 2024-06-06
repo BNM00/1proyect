@@ -1,0 +1,9 @@
+print
+int
+else
+elif 
+if 
+for 
+while
+def 
+from
